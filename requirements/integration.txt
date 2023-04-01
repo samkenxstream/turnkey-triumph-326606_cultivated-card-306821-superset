@@ -21,7 +21,7 @@ colorama==0.4.6
     # via tox
 distlib==0.3.6
     # via virtualenv
-filelock==3.9.0
+filelock==3.10.7
     # via
     #   tox
     #   virtualenv
@@ -40,7 +40,7 @@ pip-compile-multi==2.6.2
     # via -r integration.in
 pip-tools==6.8.0
     # via pip-compile-multi
-platformdirs==2.6.2
+platformdirs==3.2.0
     # via
     #   tox
     #   virtualenv
@@ -56,9 +56,9 @@ tomli==1.2.1
     # via pep517
 toposort==1.6
     # via pip-compile-multi
-tox==4.4.7
+tox==4.4.8
     # via -r integration.in
-virtualenv==20.17.1
+virtualenv==20.21.0
     # via
     #   pre-commit
     #   tox
