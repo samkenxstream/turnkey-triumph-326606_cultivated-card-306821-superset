@@ -82,7 +82,7 @@
     "@emotion/babel-preset-css-prop": "^11.2.0",
     "@emotion/cache": "^11.4.0",
     "@emotion/react": "^11.4.1",
-    "@emotion/styled": "^11.3.0",
+    "@emotion/styled": "^11.10.8",
     "@fontsource/inter": "^4.0.0",
     "@reduxjs/toolkit": "^1.9.3",
     "@superset-ui/chart-controls": "file:./packages/superset-ui-chart-controls",
